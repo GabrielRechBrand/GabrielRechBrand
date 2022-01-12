@@ -1,5 +1,5 @@
 <h1 align="center"> Greetings! My name is Gabriel.</h1>
-<h3 align="center">I'm a software developer with almost 2 years of experience. Most part of my projects include Websites, developing APIs and front-end systems.</h3>
+<h3 align="center">I'm a software developer with almost 2 years of studying experience. Most part of my projects include Websites, developing APIs and front-end systems.</h3>
 
 📌 I'm currently developing a <b>URL Shortener</b>, have a look at the repositories below. <br>
 
