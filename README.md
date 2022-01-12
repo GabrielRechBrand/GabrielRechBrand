@@ -4,7 +4,7 @@
 - This is the Front-end, it's using <b>Vue.js, HTML5, CSS3, JS</b> and recently i've been trying to implement <b>Bulma</b> as a CSS framework. 
 [frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
 
-- This is the Back-end, it's using <b>Spring Boot, Java, PostgreSQL and Maven.</b> 
+- This is the Back-end, it's using <b>Spring Boot, Java, PostgreSQL and Maven.</b> <br>
 [backend-shortener](https://github.com/GabrielRechBrand/backend-shortener)
 
 <h3 align="left">Connect with me:</h3>
