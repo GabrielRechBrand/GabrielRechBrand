@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings! My name is Gabriel.</h1>
 <h3 align="center">I'm a software developer with almost 2 years of experience. Most part of my projects include Websites, developing APIs and front-end systems.</h3>
 
-- This is the Front-end, it's using <b>Vue.js, HTML5, CSS3, JS</b> and recently i've been trying to implement <b>Bulma</b> as a CSS framework. 
+- This is the Front-end, it's using <b>Vue.js, HTML5, CSS3, JS</b> and recently i've been trying to implement <b>Bulma</b> as a CSS framework. <br>
 [frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
 
 - This is the Back-end, it's using <b>Spring Boot, Java, PostgreSQL and Maven.</b> <br>
