@@ -3,7 +3,7 @@
 
 📌 I'm currently developing a <b>URL Shortener</b>, have a look at the repositories below. <br>
 
-- This is the Front-end, it's using <b>Vue.js, HTML5, CSS3, JS</b> and recently i've been trying to implement <b>Bulma</b> as a CSS framework. <br>
+- This is the Front-end, it's using <b>Vue.js, HTML5, CSS3, JS</b> and recently I've been trying to implement <b>Bulma</b> as a CSS framework. <br>
 [frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
 
 - This is the Back-end, it's using <b>Spring Boot, Java, PostgreSQL and Maven.</b> <br>
