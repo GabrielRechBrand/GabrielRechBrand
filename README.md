@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings! My name is Gabriel.</h1>
 <h3 align="center">I'm a software developer with almost 2 years of studying experience. Most part of my projects include Websites, developing APIs and front-end systems.</h3>
 
-📌 Check out some projects that I did!. <br>
+📌 Check out some projects that I did! <br>
 
 - Front-end for an <b>URL Shortener</b>.
 [frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
