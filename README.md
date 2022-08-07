@@ -1,4 +1,4 @@
-<h1 align="center>"Greetings! My name is Gabriel.</h1>
+<h1 align="center">Greetings! My name is Gabriel.</h1>
 
 #### I'm a software developer with almost 2 years of studying experience. Most of my projects include Websites, developing APIs and front-end systems.
 
