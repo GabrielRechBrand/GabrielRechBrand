@@ -1,8 +1,8 @@
-<h1 align="center">Greetings! My name is Gabriel.</h1>
+<h1 align="center>"Greetings! My name is Gabriel.</h1>
 
 #### I'm a software developer with almost 2 years of studying experience. Most of my projects include Websites, developing APIs and front-end systems.
 
-![Gabriel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=VHLGabrielRechBrand&count_private=true&theme=dar&custom_title=GabrielRechBrand)
+![Gabriel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=VHLGabrielRechBrand&count_private=true&theme=dark&custom_title=GabrielRechBrand)
 ## **Have a look at some of my projects!**
 
 ### 🏜️ **Plateau** 
