@@ -1,7 +1,6 @@
-<h1><center> Greetings! My name is Gabriel. </center></h1>
+<h1 align="center">Greetings! My name is Gabriel.</h1>
 
--------------------------------------------------
-#### I'm a software developer with almost 2 years of studying experience. Most part of my projects include Websites, developing APIs and front-end systems.
+#### I'm a software developer with almost 2 years of studying experience. Most of my projects include Websites, developing APIs and front-end systems.
 
 ![Gabriel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GabrielRechBrand&count_private=true&theme=dark)
 
@@ -17,10 +16,10 @@
 ### 💻 **URL Shortener**
 
 -------------------------------------------------
-- ``Front-end application.`` 
+- ``Front-end application`` 
 [frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
 
-- ``Back-end application.``
+- ``Back-end application``
 [backend-shortener](https://github.com/GabrielRechBrand/backend-shortener)
 
 ### 📦 **Product Manager** 
