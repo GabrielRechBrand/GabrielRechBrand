@@ -1,5 +1,4 @@
-<center> Greetings! My name is Gabriel. </center>
-=================================================
+<h1><center> Greetings! My name is Gabriel. </center></h1>
 
 -------------------------------------------------
 #### I'm a software developer with almost 2 years of studying experience. Most part of my projects include Websites, developing APIs and front-end systems.
@@ -31,8 +30,6 @@
 [teste-ci](https://github.com/GabrielRechBrand/testeci)
 
 ## Skills:
-
--------------------------------------------------
 
 ### *Back-end Development:* <br> <br>
 
@@ -68,7 +65,6 @@
 
 ## Contact me!
 
--------------------------------------------------
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-rech-brand-2bb20a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rech-brand-2bb20a21a/" height="30" width="40" /></a>
 <a href="https://discord.gg/The Walrus#2964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="The Walrus#2964" height="40" width="40" /></a>
