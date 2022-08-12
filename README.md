@@ -8,9 +8,14 @@
 ### 🏜️ **Plateau** 
 
 -------------------------------------------------
+- ``Front-end application``
+[plateau-front](https://github.com/GabrielRechBrand/plateau-front)
 
-- ``Under development``
+- ``Back-end application``
+[plateau-api](https://github.com/GabrielRechBrand/plateau-api)
 
+- ``Mayor is an assistant Discord Bot for multiple Plateau instances.``
+[plateau-mayor](https://github.com/GabrielRechBrand/plateau-api)
 
 ### 💻 **URL Shortener**
 
@@ -27,39 +32,11 @@
 - ``A PHP application``
 [teste-ci](https://github.com/GabrielRechBrand/testeci)
 
-## Skills:
+### 📚 **My first public project!**
 
-### *Back-end Development:* <br> <br>
-
-<p align="left">
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</p>
-
-### *Front-end Development:* <br> <br>
-
-<p align="left">
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-</p>
-
-### *Databases:* <br> <br>
-
-<p align="left">
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</p>
-
-### *Other skills:* <br> <br>
-
-<p align="left">
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img width="60" height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
-<img width="60" height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-<img width="60" height="60" src="https://img.icons8.com/ios/344/maven-ios.png" />
-</p>
+-------------------------------------------------
+- `` Really simple and intuitive employee manager.``
+  [desafio-gestao](https://github.com/GabrielRechBrand/desafio-gestao)
 
 ## Contact me!
 
