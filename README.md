@@ -12,7 +12,7 @@
   - ``Back-end application``  [backend-shortener](https://github.com/GabrielRechBrand/backend-shortener)
 
 -  **Product Manager**
-  - ``PHP Product manager``  [teste-ci](https://github.com/GabrielRechBrand/testeci)
+    - ``PHP Product manager``  [teste-ci](https://github.com/GabrielRechBrand/testeci)
 
 - **My first project**
   - `` Really simple and intuitive employee manager.``  [desafio-gestao](https://github.com/GabrielRechBrand/desafio-gestao)
