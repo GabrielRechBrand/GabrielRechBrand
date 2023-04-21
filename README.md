@@ -16,8 +16,6 @@ I am a Back-end Developer at VHL Sistemas and a Computer Science student at the 
 
 #### **Personal projects**
 
-*Each of the repositories below is intended to show various activities and studies related to a major theme, most of which are multi-module.*
-
 - [TJSC Integration](https://github.com/GabrielRechBrand/integration-tjsc)
 - [More fluids](https://github.com/GabrielRechBrand/more-fluids)
 - [Gym Buddy](https://github.com/GabrielRechBrand/gym-buddy)
