@@ -1,25 +1,26 @@
-<h1 align="center">Greetings! My name is Gabriel.</h1>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRechBrand&show_icons=true&theme=radical)
 
-#### I'm a software developer with almost 2 years of studying experience. Most of my projects include Websites, developing APIs and front-end systems.
+### Ahoy! I'm Gabriel.
 
-## **Activity**
+I am a Back-end Developer at VHL Sistemas and a Computer Science student at the University of Southern Santa Carina. I enjoy working on projects that challenge me and allow me to learn and grow as a developer. In my free time, I like to work on personal coding projects, learn new technologies, and contribute to open-source projects.
 
-- **Private contributions**
-  - ``Income tax documentation calculator`` [private repository]
+### Repositories
 
-- **URL Shortener**
-  - ``Front-end application``[frontend-shortener](https://github.com/GabrielRechBrand/frontend-shortener)
-  - ``Back-end application``  [backend-shortener](https://github.com/GabrielRechBrand/backend-shortener)
+#### **Academic studies**
 
--  **Product Manager**
-  - ``PHP Product manager``  [teste-ci](https://github.com/GabrielRechBrand/testeci)
+*Each of the repositories below is intended to show various activities and studies related to a major theme, most of which are multi-module.*
 
-- **My first project**
-  - `` Really simple and intuitive employee manager.``  [desafio-gestao](https://github.com/GabrielRechBrand/desafio-gestao)
+- [Threads](https://github.com/GabrielRechBrand/threads-class)
+- [Sockets](https://github.com/GabrielRechBrand/sockets-class)
+- [Web development](https://github.com/GabrielRechBrand/webdev-class)
 
-## Contact me!
-<p align="left">  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-rech-brand-2bb20a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rech-brand-2bb20a21a/" height="30" width="40" /></a>  
-<a href="https://discord.gg/The Walrus#2964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="The Walrus#2964" height="40" width="40" /></a>  
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="The Walrus#2964" height="40" width="40" /></a>  
-</p>
+#### **Personal projects**
+
+*Each of the repositories below is intended to show various activities and studies related to a major theme, most of which are multi-module.*
+
+- [TJSC Integration](https://github.com/GabrielRechBrand/integration-tjsc)
+- [More fluids](https://github.com/GabrielRechBrand/more-fluids)
+- [Gym Buddy](https://github.com/GabrielRechBrand/gym-buddy)
+
+### Contact Me
+Feel free to reach out to me via email at rcgabrielbrand@gmail.com or connect with me on LinkedIn.
